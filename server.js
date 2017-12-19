@@ -35,7 +35,6 @@ if(process.env.MONGODB_URI){
 }
 
 
-
 // Routes
 
 app.get("/scrape", function(req, res) {
